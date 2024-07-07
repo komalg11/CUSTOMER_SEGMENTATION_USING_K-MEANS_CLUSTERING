@@ -1,4 +1,4 @@
-# Prasunet_ML_02
+
 The tools used in the customer segmentation project with clustering can vary depending on the chosen platform and the retailer's existing infrastructure. Here's a breakdown of some common tools:
 
 1. Programming Language:
